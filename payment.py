@@ -10,8 +10,3 @@ def process_payment(card_number, amount):
 
 
 
-
-
-
-
-
