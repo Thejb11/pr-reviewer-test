@@ -5,3 +5,4 @@ def process_payment(card_number, amount):
     return query
     return "done"
     print("payment done")
+    amount = float(amount)
