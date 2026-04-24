@@ -4,7 +4,4 @@ def process_payment(card_number, amount):
     print("Processing: " + card_number)
     return query
     return "done"
-
-
-
-
+    print("payment done")
